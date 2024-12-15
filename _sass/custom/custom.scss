@@ -20,6 +20,10 @@ h2 {
   border-bottom: 0px;
 }
 
+.nav-list .nav-list-item .nav-list-link {
+  font-size: 1rem;
+}
+
 .main-header {
   border-bottom: 0px;
 }
@@ -33,6 +37,6 @@ h2 {
 }
 
 .site-footer {
-  color: $bgtxt;
+  color: $txt;
 }
 
