@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text:ital,wght@0,400..700;1,400..700&display=swap');
+
+body {
+  font-family: 'STIX Two Text';
+  font-size: 1rem;
+  font-weight: 400;
+  font-style: normal;
+  color: $txt;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+h2 {
+  font-size: 1.25rem;
+}
+
+.site-header {
+  border-bottom: 0px;
+}
+
+.main-header {
+  border-bottom: 0px;
+}
+
+.main-content ul > li::before {
+  color: $txt;
+}
+
+.main-content ol > li::before {
+  color: $txt;
+}
+
+.site-footer {
+  color: $bgtxt;
+}
+
