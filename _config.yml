@@ -2,6 +2,8 @@ title: Casulo
 theme: just-the-docs
 url: https://rafhaels.github.io/casulo/
 color_scheme: paper
+logo:
+favicon:
 
 # link voltar ao topo
 back_to_top: true
